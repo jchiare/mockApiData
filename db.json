@@ -38,5 +38,44 @@
 		"hasCsNote": false,
 		"iPhoneOrder": false,
 		"commercetoolsId": "845e0990-3451-4de6-954c-1d30c1b8d6e9"
+	},
+	"ordersV2": {
+		"orderId": 88454,
+		"email": "john@doe.com",
+		"returns": [{
+				"qty": 1,
+				"sku": "4235435",
+				"name": "KYLIE JENNER SHOES",
+				"order_id": 88454,
+				"returns_status": "Refunded",
+				"date_refunded": "2021-11-18 13:19:22",
+				"reason": "ArrivedTooLate",
+				"tracking_id": 324324,
+				"date_received": "2020-01-09 5:51:43",
+				"last_tracking_status": "On its way back to the retailer - 12",
+				"date_requested": "21/12/2021 11:28:55"
+			},
+			{
+				"qty": 1,
+				"sku": "fef34f",
+				"name": "KYLIE JENNER SHOES",
+				"order_id": 88454,
+				"returns_status": "Requested",
+				"reason": "ArrivedTooLate",
+				"date_requested": "21/12/2021 11:28:55"
+			},
+			{
+				"qty": 2,
+				"sku": "5h3y54h5",
+				"name": "KYLIE JENNER SHOES",
+				"order_id": 88454,
+				"returns_status": "Recieved",
+				"reason": "ArrivedTooLate",
+				"date_requested": "21/12/2021 11:28:55",
+				"date_received": "2020-01-09 5:51:43",
+				"last_tracking_status": "On its way back to the retailer - 14",
+				"tracking_id": 32423432
+			}
+		]
 	}
 }
