@@ -3,3 +3,6 @@
 
 ## return status API
 * version 1: Simple get request to [https://my-json-server.typicode.com/jchiare/mockApiData/returns](https://my-json-server.typicode.com/jchiare/mockApiData/returns)
+
+## simple orders API
+* version 1: Simple get request to [https://my-json-server.typicode.com/jchiare/mockApiData/returns](https://my-json-server.typicode.com/jchiare/mockApiData/simpleOrders)
