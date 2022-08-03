@@ -39,7 +39,7 @@
 		"iPhoneOrder": false,
 		"commercetoolsId": "845e0990-3451-4de6-954c-1d30c1b8d6e9"
 	},
-	"ordersV2": {
+	"returns": {
 		"orderId": 88454,
 		"email": "john@doe.com",
 		"returns": [{
