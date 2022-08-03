@@ -77,5 +77,23 @@
 				"tracking_id": 32423432
 			}
 		]
+	},
+	"simpleOrder": {
+		"deliveryStatus": null,
+		"deliveryStatusTime": null,
+		"productName": "Laundry Basket Art Print",
+		"shippedOn": "2021-10-16T19:53:33.000Z",
+		"deliveryAddressCountry": "United States",
+		"status": "pending",
+		"orderReference": "SO-1659077",
+		"deliveryMessage": null,
+		"courier": null,
+		"isPoD": true,
+		"trackingUrl": "http://wwww.tracking.com",
+		"hasDiscountApplied": false,
+		"originalPrice": "$102.00",
+		"pricePaid": "$102.00",
+		"orderProcessingDays": 2,
+		"discountApplied": "0%"
 	}
 }
