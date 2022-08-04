@@ -78,7 +78,7 @@
 			}
 		]
 	},
-	"simpleOrder": {
+	"simpleOrder": [{
 		"deliveryStatus": null,
 		"deliveryStatusTime": null,
 		"productName": "Laundry Basket Art Print",
@@ -95,5 +95,22 @@
 		"pricePaid": "$102.00",
 		"orderProcessingDays": 2,
 		"discountApplied": "0%"
-	}
+	},{
+		"deliveryStatus": "sent",
+		"deliveryStatusTime": null,
+		"productName": "NICE SHOES",
+		"shippedOn": "2021-10-16T19:53:33.000Z",
+		"deliveryAddressCountry": "United States",
+		"status": "pending",
+		"orderReference": "SO-165453",
+		"deliveryMessage": null,
+		"courier": null,
+		"isPoD": true,
+		"trackingUrl": "http://wwww.tracking.com",
+		"hasDiscountApplied": false,
+		"originalPrice": "$142.00",
+		"pricePaid": "$142.00",
+		"orderProcessingDays": 2,
+		"discountApplied": "0%"
+	}]
 }
