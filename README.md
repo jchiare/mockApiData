@@ -6,3 +6,6 @@
 
 ## simple order API
 * version 1: Simple get request to [https://my-json-server.typicode.com/jchiare/mockApiData/simpleOrder](https://my-json-server.typicode.com/jchiare/mockApiData/simpleOrder)
+
+## one order API
+* version 1: Simple get request to [https://my-json-server.typicode.com/jchiare/mockApiData/oneOrder](https://my-json-server.typicode.com/jchiare/mockApiData/oneOrder) 
